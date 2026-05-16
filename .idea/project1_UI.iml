@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../Interview Prep/python_selenium_pytest">
+      <excludeFolder url="file://$MODULE_DIR$/../Interview Prep/python_selenium_pytest/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.14 virtualenv at C:\Users\Jahnavi Nelluri\Desktop\Interview Prep\.venv (2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
